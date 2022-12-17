@@ -52,7 +52,9 @@ To execute the chrome automation, one would also need to [chrome-webdriver][chro
 
 ## Usage
 
-This script would require [python][python] and [Google Chrome][google-chrome] to be installed.
+This script would require [python][python] and [Google Chrome][google-chrome] to be installed.<br/>
+Clone the repo using the following command:
+> git clone https://github.com/TheIncredibleVee/LSAttacked.git
 
 After that platform specific guide is given.
 
